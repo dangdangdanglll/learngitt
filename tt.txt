@@ -1,3 +1,5 @@
 init xxx text
 hello world
 add somethings dddd
+new 
+new again
