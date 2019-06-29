@@ -1,2 +1,3 @@
-init text
-add somethings
+init xxx text
+hello world
+add somethings dddd
